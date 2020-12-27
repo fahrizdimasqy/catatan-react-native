@@ -1,2 +1,2 @@
-##Component
+## Component
 component adalah bagian
