@@ -12,3 +12,4 @@ untuk membuat form inputan
 * Component Scrollview
 suatu component untuk memberikan efek untuk bisa melakukan scroll
 * Component Stylesheet
+tempat untuk menyimpan style2 yang dibuat
