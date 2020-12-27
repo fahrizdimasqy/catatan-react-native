@@ -7,4 +7,8 @@ berfungsi sebagai pembungkus atau bisa menjadi komponen tersendiri jika dibersi 
 suatu component untuk memunculkan tulisan
 * Component Image
 suatu component untuk memunculkan image
-
+* Component Text Input
+untuk membuat form inputan
+* Component Scrollview
+suatu component untuk memberikan efek untuk bisa melakukan scroll
+* Component Stylesheet
