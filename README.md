@@ -13,3 +13,21 @@ untuk membuat form inputan
 suatu component untuk memberikan efek untuk bisa melakukan scroll
 * Component Stylesheet
 tempat untuk menyimpan style2 yang dibuat
+
+## Penulisan Functional Component
+```javascript
+const Fahriz = () => {
+  return <Text>Fahriz</Text>;
+};
+```
+
+## Penulisan Class Component
+```javascript
+class BoxGreen extends Component {
+  render() {
+    return <Text>Ini Komponen Class</Text>;
+  }
+}
+```
+
+
